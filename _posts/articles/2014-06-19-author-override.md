@@ -1,13 +1,18 @@
 ---
+title: Override Author Byline Test Post
+date: 2014-06-19 00:00:00 Z
+categories:
+- articles
+tags:
+- sample-post
+- readability
+- test
 layout: post
-title: "Override Author Byline Test Post"
-excerpt: "An article to test overriding the default site author."
-categories: articles
-tags: [sample-post, readability, test]
+excerpt: An article to test overriding the default site author.
 author: billy_rick
 comments: true
 share: true
-modified: 2016-06-01T14:18:57-04:00
+modified: 2016-06-01 18:18:57 Z
 image:
   feature: so-simple-sample-image-7.jpg
   credit: WeGraphics

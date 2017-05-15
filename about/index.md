@@ -1,8 +1,8 @@
 ---
-layout: page
 title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+layout: page
+excerpt: So Simple is a responsive Jekyll theme for your words and images.
+modified: 2014-08-08 23:44:38.564000000 Z
 image:
   feature: so-simple-sample-image-4.jpg
   credit: WeGraphics

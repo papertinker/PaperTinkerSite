@@ -1,9 +1,15 @@
 ---
+title: Testing Readability with a Bunch of Text
+date: 2012-05-22 00:00:00 Z
+categories:
+- articles
+tags:
+- sample-post
+- readability
+- test
+- intro
 layout: post
-title: "Testing Readability with a Bunch of Text"
-excerpt: "A ton of text to test readability."
-categories: articles
-tags: [sample-post, readability, test, intro]
+excerpt: A ton of text to test readability.
 image:
   feature: so-simple-sample-image-2.jpg
   credit: WeGraphics

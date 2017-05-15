@@ -1,12 +1,16 @@
 ---
+title: A Post with a Video
+date: 2013-06-25 00:00:00 Z
+categories:
+- articles
+tags:
+- sample-post
+- video
 layout: post
-title: "A Post with a Video"
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
-categories: articles
-tags: [sample-post, video]
+excerpt: Custom written post descriptions are the way to go... if you're not lazy.
 comments: true
 share: true
-modified: 2016-06-01T14:18:26-04:00
+modified: 2016-06-01 18:18:26 Z
 ---
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/pdSp4Y4GOQs" frameborder="0"> </iframe>
