@@ -10,7 +10,7 @@ collections:
     output: true
 locale: en_US
 description: who makes games!
-logo: "\\images\\site-logo.png"
+logo: site-logo.png
 search: false
 url: https://papertinker.com
 permalink: "/:categories/:title/"
