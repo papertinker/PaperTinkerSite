@@ -1,6 +1,6 @@
 ---
 title: Site Title
-timezone: UTC
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -9,9 +9,9 @@ collections:
     title: Uploads
     output: true
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
-search: true
+description: who makes games!
+logo: "/uploads/PTSiteLogo.png"
+search: false
 url: https://papertinker.com
 permalink: "/:categories/:title/"
 markdown: kramdown
@@ -56,10 +56,10 @@ exclude:
 - README.md
 - vendor
 owner:
-  name: Your Name
+  name: Pintian Zhang
   avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname: 
+  email: contact@papertinker.com
+  disqus-shortname: PT
   twitter: 
   facebook: 
   github: 
