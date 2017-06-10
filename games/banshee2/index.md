@@ -4,7 +4,7 @@ layout: page
 excerpt: Instructions on how to install and customize the Jekyll theme So Simple.
 modified: 2016-09-12 08:42:37 -04:00
 image:
-  feature: so-simple-sample-image-6.jpg
+  feature: BansheeBanner.png
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 specialPage: Banshee
