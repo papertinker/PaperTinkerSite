@@ -2,6 +2,9 @@
 title: Banshee
 date: 2017-05-14 21:57:00 -04:00
 layout: page
+image:
+  feature: BansheeBanner.png
+specialPage: Banshee
 ---
 
 # About the game:
