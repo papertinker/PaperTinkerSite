@@ -1,5 +1,5 @@
 ---
-title: Theme Setup
+title: Banshee2
 layout: page
 excerpt: Instructions on how to install and customize the Jekyll theme So Simple.
 modified: 2016-09-12 08:42:37 -04:00
