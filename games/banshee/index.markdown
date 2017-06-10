@@ -9,6 +9,8 @@ Google Cardboard is recommended but not required for this experience.
 ![Iphone6s.png](/uploads/Iphone6s.png)
 ![Screen Shot 2017-06-08 at 2.44.11 PM.png](/uploads/Screen%20Shot%202017-06-08%20at%202.44.11%20PM.png)
 
+![Twitter Card summary large image screenshot]({{ site.url }}/images/twitter-card-summary-large-image.jpg)
+
 
 
 
