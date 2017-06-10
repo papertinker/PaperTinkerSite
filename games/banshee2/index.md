@@ -7,6 +7,7 @@ image:
   feature: so-simple-sample-image-6.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+specialPage: Banshee
 ---
 
 General notes and suggestions for customizing **So Simple Theme**.
