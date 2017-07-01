@@ -1,10 +1,10 @@
 ---
 title: Banshee
 date: 2017-05-14 21:57:00 -04:00
-layout: page
 image:
   feature: BansheeBanner.png
 specialPage: Banshee
+layout: page
 ---
 
 # About the game:
@@ -13,8 +13,8 @@ Play with the power of **Banshee** in a VR environment. Generate shock-wave with
 Google Cardboard is recommended but not required for this experience.
 
 Play it for free on iOS & Android:
-iOS App Store:
-Google Play Store:
+- iOS App Store:
+- Google Play Store:
 
 Headphone is strongly recommended for this experience.
 
