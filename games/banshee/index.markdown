@@ -7,6 +7,10 @@ specialPage: Banshee
 layout: page
 ---
 
+# Link in store:
+- iOS: https://itunes.apple.com/us/app/banshee-vr/id1246387612?mt=8
+- Android: 
+
 # About the game:
 
 Play with the power of **Banshee** in a VR environment. Generate shock-wave with your voice. Break and destroy to your heart’s content! The louder your voice, the more powerful the blast.
