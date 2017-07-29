@@ -1,16 +1,17 @@
 ---
 title: A Post with a Video
-date: 2013-06-25 00:00:00 Z
+date: 2013-06-24 20:00:00 -04:00
+published: false
 categories:
 - articles
 tags:
 - sample-post
 - video
-layout: post
 excerpt: Custom written post descriptions are the way to go... if you're not lazy.
 comments: true
 share: true
-modified: 2016-06-01 18:18:26 Z
+modified: 2016-06-01 14:18:26 -04:00
+layout: post
 ---
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/pdSp4Y4GOQs" frameborder="0"> </iframe>

@@ -1,20 +1,21 @@
 ---
 title: Post with Large Feature Image and Text
-date: 2013-05-23 00:00:00 Z
+date: 2013-05-22 20:00:00 -04:00
+published: false
 categories:
 - articles
 tags:
 - sample-post
 - readability
-layout: post
 excerpt: Custom written post descriptions are the way to go... if you're not lazy.
-modified: 2013-06-30 00:00:00 Z
+modified: 2013-06-29 20:00:00 -04:00
 image:
   feature: so-simple-sample-image-3.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
+layout: post
 ---
 
 This is a sample post with a large feature image up top and tons of text. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.

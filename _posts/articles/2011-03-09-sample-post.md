@@ -1,20 +1,21 @@
 ---
 title: Sample Post
-date: 2011-03-10 00:00:00 Z
+date: 2011-03-09 19:00:00 -05:00
+published: false
 categories:
 - articles
 tags:
 - sample-post
-layout: post
 excerpt: 'Just about everything you''ll need to style in the theme: headings, paragraphs,
   blockquotes, tables, code blocks, and more.'
-modified: 2016-06-01 18:17:25 Z
+modified: 2016-06-01 14:17:25 -04:00
 image:
   feature: so-simple-sample-image-1.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 comments: true
 share: true
+layout: post
 ---
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
