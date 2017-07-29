@@ -50,4 +50,9 @@ Sound of Waves was founded by two developers (PT Zhang and Michael Wang) at the 
 ![Carshock.png](/uploads/Carshock.png)
 
 # Logos/Icons
-[Banshee_Logo_Icons_Images.rar](/uploads/Banshee_Logo_Icons_Images.rar)
+[Banshee VR Media Assets](/uploads/Banshee_VR_Media_Assets.7z)
+Include:
+ - Logo
+ - Icon
+ - Screenshot
+ - Trailer Video
