@@ -1,5 +1,5 @@
 ---
-title: About the Jekyll Theme
+title: About PaperTinker
 excerpt: So Simple is a responsive Jekyll theme for your words and images.
 modified: 2014-08-08 19:44:38.564000000 -04:00
 image:
