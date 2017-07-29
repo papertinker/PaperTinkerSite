@@ -11,8 +11,8 @@ By: Sound of Waves on July 9, 2017
 You have successfully arrived at the Banshee VR Press page.  Here you should find any info you might need to post articles or get more informed about Banshee VR.  If you need any additional information posted to this page or would like anything provided in a different format, let us know and we’ll make it available.
 
 # Link in store:
-- iOS: https://itunes.apple.com/us/app/banshee-vr/id1246387612?mt=8
-- Android: https://play.google.com/store/apps/details?id=com.papertinker.banshee&hl=en
+- [iOS App Store](https://itunes.apple.com/us/app/banshee-vr/id1246387612?mt=8 - Android: https://play.google.com/store/apps/details?)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.papertinker.banshee&hl=en)
 
 # Fact Sheet
 * **Developer**: Sound of Waves; Based in Rockville, Maryland
