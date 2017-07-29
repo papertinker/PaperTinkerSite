@@ -1,6 +1,8 @@
 ---
 title: Banshee Press Kit
 date: 2017-07-01 14:16:00 -04:00
+image:
+  feature: BansheeBanner.png
 specialPage: Banshee
 layout: page
 ---
@@ -50,9 +52,4 @@ Sound of Waves was founded by two developers (PT Zhang and Michael Wang) at the 
 ![Carshock.png](/uploads/Carshock.png)
 
 # Logos/Icons
-[Banshee VR Media Assets](/uploads/Banshee_VR_Media_Assets.7z)
-Include:
- - Logo
- - Icon
- - Screenshot
- - Trailer Video
+[Banshee_Logo_Icons_Images.rar](/uploads/Banshee_Logo_Icons_Images.rar)
