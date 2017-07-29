@@ -7,18 +7,14 @@ specialPage: Banshee
 layout: page
 ---
 
-# Link in store:
-- [iOS App Store](https://itunes.apple.com/us/app/banshee-vr/id1246387612?mt=8 - Android: https://play.google.com/store/apps/details?)
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.papertinker.banshee&hl=en)
-
 # About the game:
 
 Play with the power of **Banshee** in a VR environment. Generate shock-wave with your voice. Break and destroy to your heart’s content! The louder your voice, the more powerful the blast.
 Google Cardboard is recommended but not required for this experience.
 
 Play it for free on iOS & Android:
-- iOS App Store.
-- Google Play Store.
+- [iOS App Store](https://itunes.apple.com/us/app/banshee-vr/id1246387612?mt=8 - Android: https://play.google.com/store/apps/details?)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.papertinker.banshee&hl=en)
 
 Headphone is strongly recommended for this experience.
 
