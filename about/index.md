@@ -5,7 +5,7 @@ modified: 2014-08-08 19:44:38.564000000 -04:00
 layout: page
 ---
 
-PaperTinker is an Indie Game Company founded by PT Zhang. I would spend more time thinking of description but I'd rather use the time to pump out games.
+PaperTinker is an Indie Game Company founded by PT Zhang. I would spend more time thinking of descriptions for the site but I'd rather use the time to pump out games to speak for themselves.
 
 Currently released titles:
 - [Banshee VR](https://papertinker.com/games/banshee/) (Collaboration with Michael Wang)
