@@ -1,6 +1,11 @@
 ---
 title: Banshee VR Released!
 date: 2017-07-29 12:56:00 -04:00
+categories:
+- blog
+tags:
+- BansheeVR
+layout: post
 ---
 
 A dear friend and I have made a little game/simulation for smart phones called Banshee VR. Its a VR title where you can use your voice to generate virtual shockwaves to break and destroy to your hears content! Its pretty neat (and FREE!). Check it out at:
