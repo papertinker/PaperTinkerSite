@@ -1,13 +1,14 @@
 ---
 title: Hello World
-date: 2014-08-08 19:39:55 Z
+date: 2014-08-08 15:39:00 -04:00
+published: false
 categories:
 - blog
-layout: post
-modified: 2016-06-01 18:19:19 Z
+modified: 2016-06-01 14:19:19 -04:00
 excerpt: 
 image:
   feature: 
+layout: post
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
