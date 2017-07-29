@@ -8,8 +8,8 @@ layout: page
 ---
 
 # Link in store:
-- iOS: https://itunes.apple.com/us/app/banshee-vr/id1246387612?mt=8
-- Android: 
+- [iOS App Store](https://itunes.apple.com/us/app/banshee-vr/id1246387612?mt=8 - Android: https://play.google.com/store/apps/details?)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.papertinker.banshee&hl=en)
 
 # About the game:
 
