@@ -1,6 +1,9 @@
 ---
 title: ABYSSIREN Privacy Policy
 date: 2019-03-23 13:45:00 -04:00
+image:
+  feature: AbyssirenBanner.png
+specialPage: Banshee
 ---
 
 # **Privacy Policy** 
