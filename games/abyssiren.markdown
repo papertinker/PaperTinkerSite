@@ -2,7 +2,7 @@
 title: ABYSSIREN
 date: 2019-03-23 14:14:00 -04:00
 image:
-  feature: BansheeBanner.png
+  feature: AbyssirenBanner.png
 specialPage: Banshee
 ---
 
