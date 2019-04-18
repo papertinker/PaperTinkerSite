@@ -7,21 +7,21 @@ specialPage: Banshee
 ---
 
 Test
-<table style="undefined;table-layout: fixed; width: 760px">
+<table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
-<col style="width: 350px">
-<col style="width: 25px">
-<col style="width: 350px">
+<col style="width: 45%">
+<col style="width: 10%">
+<col style="width: 45%">
 </colgroup>
   <tr>
-    <th class="tg-0lax" style="max-width: 350px;">
+    <th class="tg-0lax" >
       <iframe width="350" height="467" src="https://www.youtube.com/embed/y0fiBdyK-Uk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </th>
     <th class="tg-0lax"></th>
-    <th class="tg-0lax" style="max-width: 350px;">
+    <th class="tg-0lax" >
       <iframe width="350" height="467" src="https://www.youtube.com/embed/y0fiBdyK-Uk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </th>
   </tr>
 </table>
 
-vid13
+vid14
