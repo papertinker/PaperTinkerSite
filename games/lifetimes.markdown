@@ -7,5 +7,5 @@ specialPage: Banshee
 ---
 
 Test
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LX4Mf-AXybE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1024" height="1366" src="https://www.youtube.com/embed/y0fiBdyK-Uk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 vid3
