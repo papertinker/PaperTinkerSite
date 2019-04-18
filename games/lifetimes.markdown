@@ -7,3 +7,4 @@ specialPage: Banshee
 ---
 
 Test
+{% include youtubePlayer.html id=2u3YOGjSaq0 %}
