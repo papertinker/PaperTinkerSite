@@ -8,4 +8,4 @@ specialPage: Banshee
 
 Test
 {% include youtubePlayer.html id=page.youtubeId %}
-vid
+vid2
