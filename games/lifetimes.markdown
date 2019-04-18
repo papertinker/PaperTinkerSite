@@ -7,7 +7,8 @@ specialPage: Banshee
 ---
 
 Test
-<div style="max-width: 512px;">
+<div style="max-width: 1200px;">
+<iframe width="512" height="683" src="https://www.youtube.com/embed/y0fiBdyK-Uk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="512" height="683" src="https://www.youtube.com/embed/y0fiBdyK-Uk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-vid8
+vid9
