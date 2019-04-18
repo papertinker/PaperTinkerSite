@@ -7,7 +7,7 @@ specialPage: Banshee
 ---
 
 Test
-<table style="undefined;table-layout: fixed; width: 1074px">
+<table style="undefined;table-layout: fixed; width: 760px">
 <colgroup>
 <col style="width: 350px">
 <col style="width: 25px">
