@@ -9,9 +9,9 @@ specialPage: Banshee
 Test
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
-<col style="width: 45%">
-<col style="width: 10%">
-<col style="width: 45%">
+<col style="width: 47.5%">
+<col style="width: 5%">
+<col style="width: 47.5%">
 </colgroup>
   <tr>
     <th class="tg-0lax" >
