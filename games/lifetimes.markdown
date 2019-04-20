@@ -15,11 +15,11 @@ Test
 </colgroup>
   <tr>
     <th class="tg-0lax" >
-      <iframe width="350" height="467" src="https://www.youtube.com/embed/y0fiBdyK-Uk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="350" height="467" src="https://www.youtube.com/watch?v=fQghW-3JD4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </th>
     <th class="tg-0lax"></th>
     <th class="tg-0lax" >
-      <iframe width="350" height="467" src="https://www.youtube.com/embed/y0fiBdyK-Uk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="350" height="467" src="https://www.youtube.com/watch?v=pLSshwldt80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </th>
   </tr>
 </table>
