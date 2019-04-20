@@ -7,8 +7,7 @@ specialPage: Banshee
 ignoreTitle: true
 ---
 
-<p style="font-family: oldstyle; font-size: 1.5em; font-weight: bold;">Trailers</p>
-<p style="font-family: oldstyle; font-size: 1.5em; font-weight: normal;">Trailers</p>
+<div align="center" style="font-family: oldstyle; font-size: 4em; font-weight: bold;">Trailers</div>
 
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
@@ -17,22 +16,22 @@ ignoreTitle: true
 <col style="width: 47.5%">
 </colgroup>
 <tr>
-<th class="tg-0lax" >
-\### Gameplay Trailer
-</th>
-<th class="tg-0lax"></th>
-<th class="tg-0lax" >
-\##c Cinematit Trailer
-</th>
+  <th class="tg-0lax" >
+    <div align="center" style="font-family: oldstyle; font-size: 3em; font-weight: bold;">Gameplay</div>
+  </th>
+  <th class="tg-0lax"></th>
+  <th class="tg-0lax" >
+    <div align="center" style="font-family: oldstyle; font-size: 3em; font-weight: bold;">Cinematic</div>
+  </th>
 </tr>
 <tr>
-<th class="tg-0lax" >
-<iframe width="350" height="467" src="https://www.youtube.com/embed/fQghW-3JD4k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</th>
-<th class="tg-0lax"></th>
-<th class="tg-0lax" >
-<iframe width="350" height="467" src="https://www.youtube.com/embed/pLSshwldt80?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</th>
+  <th class="tg-0lax" >
+    <iframe width="350" height="467" src="https://www.youtube.com/embed/fQghW-3JD4k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </th>
+  <th class="tg-0lax"></th>
+  <th class="tg-0lax" >
+    <iframe width="350" height="467" src="https://www.youtube.com/embed/pLSshwldt80?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </th>
 </tr>
 </table>
 
