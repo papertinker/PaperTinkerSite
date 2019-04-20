@@ -34,7 +34,6 @@ $(function() {
 $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
 
 // Magnific-Popup options
-/*
 $(document).ready(function() {
   $('.image-popup').magnificPopup({
     type: 'image',
@@ -53,4 +52,3 @@ $(document).ready(function() {
     mainClass: 'mfp-fade'
   });
 });
-*/
