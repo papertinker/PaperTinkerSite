@@ -4,6 +4,7 @@
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/fonts/OldSch/stylesheet.css">
 <link rel="stylesheet" type="text/css" href="{{ site.url }}/css/lightbox.min.css">
 <script src="{{ site.url }}/js/lightbox-plus-jquery.min.js"></script>
 <script>
@@ -17,9 +18,12 @@
     })
 </script>
 
+{% if page.ignoreTitle %}
+{% else %}
 <head>
 {% include head.html %}
 </head>
+{% endif %}
 
 <body id="page">
 
