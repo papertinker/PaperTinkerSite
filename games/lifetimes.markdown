@@ -9,9 +9,10 @@ ignoreTitle: true
 
 <div align="center" style="padding: 0em 0 1em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Souls + Infinity blade
 <br>
-Eastern inspired <b>RPG</b>
+Eastern inspired <span style="font-size: 3.5em;">RPG</span>
 <br>
 Coming to:</div>
+
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
 <col style="width: 42.5%">
@@ -20,15 +21,16 @@ Coming to:</div>
 </colgroup>
 <tr>
   <th align="right" class="tg-0lax" >
-    <a href="/images/badge/Apple-Badge.png"><img src="/images/badge/Apple-Badge.png"></a>
+    <a href="/images/badge/Apple-Badge.png"><img style="opacity: 0.5; filter: alpha(opacity=50);" src="/images/badge/Apple-Badge.png"></a>
   </th>
   <th class="tg-0lax"></th>
   <th align="left" class="tg-0lax" >
-    <a href="/images/badge/GooglePlay-Badge.png"><img src="/images/badge/GooglePlay-Badge.png"></a>
+    <a href="/images/badge/GooglePlay-Badge.png"><img style="opacity: 0.5; filter: alpha(opacity=50);" src="/images/badge/GooglePlay-Badge.png"></a>
   </th>
 </tr>
 </table>
 
+<div align="center" style="padding: 0em 0 1em 0; font-family: oldstyle; font-size: 4em; font-weight: bold;">5.8.2019</div>
 
 
 <div align="center" style="padding: 1em 0 0em 0; font-family: oldstyle; font-size: 4em; font-weight: bold;">Trailers</div>
