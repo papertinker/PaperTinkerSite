@@ -6,9 +6,7 @@ image:
 specialPage: Banshee
 ---
 
-<div align="center">
 ## Trailers
-</div>
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
 <col style="width: 47.5%">
