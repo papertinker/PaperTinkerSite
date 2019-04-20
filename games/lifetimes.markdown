@@ -30,4 +30,5 @@ vid17
 <div>
     <a href="https://www.w3schools.com/w3css/img_lights.jpg"><img src="https://cloudfour.com/examples/img-currentsrc/images/kitten-small.png"></a>
     <a href="https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search/_jcr_content/main-pars/image/visual-reverse-image-search-v2_1000x560.jpg"><img src="https://tinypng.com/images/example-shrunk.png"></a>
+    <a href="./images/bio-photo.jpg"><img src="./images/bio-photo.jpg"></a>
 </div>
