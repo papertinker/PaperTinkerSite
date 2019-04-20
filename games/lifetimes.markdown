@@ -7,9 +7,8 @@ specialPage: Banshee
 ignoreTitle: true
 ---
 
-<h1 style="font-family: oldstyle">The @font-face Rule</h1>
-<h1>The @font-face Rule</h1>
-## Trailers
+<p style="font-family: oldstyle; font-size: 1.5em; font-weight: bold;">Trailers</p>
+<p style="font-family: oldstyle; font-size: 1.5em; font-weight: normal;">Trailers</p>
 
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
