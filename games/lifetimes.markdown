@@ -9,10 +9,10 @@ ignoreTitle: true
 
 <div align="center" style="padding: 0em 0 0em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Souls + Infinity blade
 <br>
-Eastern inspired <span style="font-size: 1.2em;">RPG</span>
+Eastern inspired <span style="font-size: 1.3em;">RPG</span>
 </div>
 
-<div align="center" style="padding: 1.5em 0 1em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Coming to:</div>
+<div align="center" style="padding: 0em 0 1em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Available on 5.8.2019</div>
 
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
@@ -31,10 +31,8 @@ Eastern inspired <span style="font-size: 1.2em;">RPG</span>
 </tr>
 </table>
 
-<div align="center" style="padding: 0em 0 1em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">on 5.8.2019</div>
 
-
-<div align="center" style="padding: 1em 0 0em 0; font-family: oldstyle; font-size: 4em; font-weight: bold;">Trailers</div>
+<div align="center" style="padding: 1.5em 0 0em 0; font-family: oldstyle; font-size: 4em; font-weight: bold;">Trailers</div>
 
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
