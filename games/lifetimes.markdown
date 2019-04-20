@@ -7,11 +7,12 @@ specialPage: Banshee
 ignoreTitle: true
 ---
 
-<div align="center" style="padding: 0em 0 1em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Souls + Infinity blade
+<div align="center" style="padding: 0em 0 0em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Souls + Infinity blade
 <br>
 Eastern inspired <span style="font-size: 1.5em;">RPG</span>
-<br>
-Coming to:</div>
+</div>
+
+<div align="center" style="padding: 0.5em 0 1em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Coming to:</div>
 
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
