@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'oldstyle';
-    src: url('/fonts/OldSch/oldsh___-webfont.woff2') format('woff2'),
-         url('/fonts/OldSch/oldsh___-webfont.woff') format('woff');
+    src: url('{{ site.url }}/fonts/OldSch/oldsh___-webfont.woff2') format('woff2'),
+         url('{{ site.url }}/fonts/OldSch/oldsh___-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
