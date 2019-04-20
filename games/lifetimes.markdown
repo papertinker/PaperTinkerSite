@@ -11,7 +11,6 @@ ignoreTitle: true
 <br>
 Eastern inspired <b>RPG</b>
 <br>
-<br>
 Coming to:</div>
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
@@ -32,7 +31,7 @@ Coming to:</div>
 
 
 
-<div align="center" style="padding: 2em 0 0em 0; font-family: oldstyle; font-size: 4em; font-weight: bold;">Trailers</div>
+<div align="center" style="padding: 1em 0 0em 0; font-family: oldstyle; font-size: 4em; font-weight: bold;">Trailers</div>
 
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
