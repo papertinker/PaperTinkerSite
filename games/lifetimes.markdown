@@ -6,13 +6,24 @@ image:
 specialPage: Banshee
 ---
 
-Test
+<div align="center">
+## Trailers
+</div>
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
 <col style="width: 47.5%">
 <col style="width: 5%">
 <col style="width: 47.5%">
 </colgroup>
+  <tr>
+    <th class="tg-0lax" >
+      ### Gameplay Trailer
+    </th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax" >
+      ### Cinematic Trailer
+    </th>
+  </tr>
   <tr>
     <th class="tg-0lax" >
       <iframe width="350" height="467" src="https://www.youtube.com/watch?v=fQghW-3JD4k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
