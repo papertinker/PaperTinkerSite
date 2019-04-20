@@ -6,6 +6,7 @@ image:
 specialPage: Banshee
 ---
 
+<font face="oldstyle">This is some text!</font>
 ## Trailers
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
