@@ -4,10 +4,10 @@ date: 2019-04-17 19:40:00 -04:00
 image:
   feature: WandererOfLifetimesBanner3.jpg
 specialPage: Banshee
-ignoreTitle: 
+ignoreTitle: true
 ---
 
-<font face="oldstyle">This is some text!</font>
+<font face="oldstyle">This is some text! teee</font>
 
 ## Trailers
 
