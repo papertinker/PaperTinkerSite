@@ -24,10 +24,11 @@ Test
   </tr>
 </table>
 
-vid35
+vid36
 
 
 <div>
     <a href="https://www.w3schools.com/w3css/img_lights.jpg" data-lightbox="lifetimes_gallery" data-title="test img 1 title"><img src="https://cloudfour.com/examples/img-currentsrc/images/kitten-small.png"></a>
     <a href="/images/bio-photo.jpg" data-lightbox="lifetimes_gallery"><img src="/images/bio-photo.jpg"></a>
+<a href="https://lokeshdhakar.com/projects/lightbox2/images/image-1.jpg" data-lightbox="lifetimes_gallery"></a>
 </div>
