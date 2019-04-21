@@ -5,6 +5,7 @@ image:
   feature: WandererOfLifetimesBanner3.jpg
 specialPage: Banshee
 ignoreTitle: true
+flexibleFont: true
 ---
 
 6
