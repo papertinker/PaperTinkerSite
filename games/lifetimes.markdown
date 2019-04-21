@@ -13,9 +13,9 @@ flexibleFont: true
 Eastern inspired <span style="font-size: 130%;">RPG</span>
 </div>
 
-<div align="center" style="padding: 0em 0 5vmin 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Available on 5.8.2019</div>
+<div align="center" style="padding: 0em 0 0.5em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Available on 5.8.2019</div>
 
-<table style="undefined;table-layout: fixed; width: 100%">
+<table style="margin: 0 -25px 0 -25px; undefined;table-layout: fixed; width: 100%">
 <colgroup>
 <col style="width: 42.5%">
 <col style="width: 15%">
