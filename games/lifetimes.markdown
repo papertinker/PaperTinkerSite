@@ -87,4 +87,11 @@ The game incorporate text-adventure style narrative with 2D exploration and stam
     <a href="/images/Lifetimes/Screenshots/website_combat3.jpg" data-lightbox="lifetimes_combat" data-title="xxx"><img src="/images/Lifetimes/Screenshots_small/website_combat3.jpg"></a>
   </th>
 </tr>
+<a href="/images/Lifetimes/Screenshots/website_combat4.jpg" data-lightbox="lifetimes_combat" data-title="xxx"></a>
+<a href="/images/Lifetimes/Screenshots/website_combat5.jpg" data-lightbox="lifetimes_combat" data-title="xxx"></a>
+<a href="/images/Lifetimes/Screenshots/website_combat6.jpg" data-lightbox="lifetimes_combat" data-title="xxx"></a>
+<a href="/images/Lifetimes/Screenshots/website_combat7.jpg" data-lightbox="lifetimes_combat" data-title="xxx"></a>
+<a href="/images/Lifetimes/Screenshots/website_combat8.jpg" data-lightbox="lifetimes_combat" data-title="xxx"></a>
+<a href="/images/Lifetimes/Screenshots/website_combat9.jpg" data-lightbox="lifetimes_combat" data-title="xxx"></a>
+<a href="/images/Lifetimes/Screenshots/website_combat10.jpg" data-lightbox="lifetimes_combat" data-title="xxx"></a>
 </table>
