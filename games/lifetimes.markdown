@@ -274,11 +274,12 @@ The game incorporate text-adventure style narrative with 2D exploration and stam
 
 <div align="center" style="padding: 2em 0 0.5em 0; font-family: oldstyle; font-size: 4em; font-weight: bold;">Available on 5.8.2019</div>
 
+<div style="margin: 0 -25px 0 -25px;">
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
-<col style="width: 42.5%">
-<col style="width: 15%">
-<col style="width: 42.5%">
+<col style="width: 50%">
+<col style="width: 0%">
+<col style="width: 50%">
 </colgroup>
 <tr>
   <th align="right" class="tg-0lax" >
@@ -290,3 +291,4 @@ The game incorporate text-adventure style narrative with 2D exploration and stam
   </th>
 </tr>
 </table>
+</div>
