@@ -8,17 +8,12 @@ ignoreTitle: true
 flexibleFont: true
 ---
 
-10
-<div align="center" style="padding: 0em 0 0em 0; font-family: oldstyle; font-size: min(5.25vw, 3em); font-weight: bold;">Souls + Infinity blade
-<br>
-Eastern inspired <span style="font-size: 130%;">RPG</span>
-</div>
-<div align="center" style="padding: 0em 0 0em 0; font-family: oldstyle; font-size: 5.25vmin; font-weight: bold;">Souls + Infinity blade
+<div align="center" style="padding: 0em 0 0em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Souls + Infinity blade
 <br>
 Eastern inspired <span style="font-size: 130%;">RPG</span>
 </div>
 
-<div align="center" style="padding: 0em 0 5vmin 0; font-family: oldstyle; font-size: 5.25vmin; font-weight: bold;">Available on 5.8.2019</div>
+<div align="center" style="padding: 0em 0 5vmin 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Available on 5.8.2019</div>
 
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
@@ -37,8 +32,6 @@ Eastern inspired <span style="font-size: 130%;">RPG</span>
 </tr>
 </table>
 
-<div align="center" style="padding: 6vmin 0 0em 0; font-family: oldstyle; font-size: 6vmin; font-weight: bold;">Trailers</div>
-
 <div align="center" style="padding: 1.5em 0 0em 0; font-family: oldstyle; font-size: 4em; font-weight: bold;">Trailers</div>
 
 <table style="undefined;table-layout: fixed; width: 100%">
@@ -47,15 +40,6 @@ Eastern inspired <span style="font-size: 130%;">RPG</span>
 <col style="width: 5%">
 <col style="width: 47.5%">
 </colgroup>
-<tr>
-  <th class="tg-0lax" >
-    <div align="center" style="font-family: oldstyle; font-size: 4vmin; font-weight: bold;">Gameplay</div>
-  </th>
-  <th class="tg-0lax"></th>
-  <th class="tg-0lax" >
-    <div align="center" style="font-family: oldstyle; font-size: 4vmin; font-weight: bold;">Cinematic</div>
-  </th>
-</tr>
 <tr>
   <th class="tg-0lax" >
     <div align="center" style="font-family: oldstyle; font-size: 2.5em; font-weight: bold;">Gameplay</div>
