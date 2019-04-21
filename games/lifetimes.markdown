@@ -8,7 +8,7 @@ ignoreTitle: true
 flexibleFont: true
 ---
 
-8
+9
 <div align="center" style="padding: 0em 0 0em 0; font-family: oldstyle; font-size: min(5.25vw, 3em); font-weight: bold;">Souls + Infinity blade
 <br>
 Eastern inspired <span style="font-size: 130%;">RPG</span>
