@@ -15,11 +15,12 @@ Eastern inspired <span style="font-size: 130%;">RPG</span>
 
 <div align="center" style="padding: 0em 0 0.5em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Available on 5.8.2019</div>
 
-<table style="margin: 0 -25px 0 -25px; undefined;table-layout: fixed; width: 100%">
+<div style="margin: 0 -25px 0 -25px;">
+<table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
-<col style="width: 42.5%">
-<col style="width: 15%">
-<col style="width: 42.5%">
+<col style="width: 50%">
+<col style="width: 0%">
+<col style="width: 50%">
 </colgroup>
 <tr>
   <th align="right" class="tg-0lax" >
@@ -31,6 +32,7 @@ Eastern inspired <span style="font-size: 130%;">RPG</span>
   </th>
 </tr>
 </table>
+</div>
 
 <div align="center" style="padding: 1.5em 0 0em 0; font-family: oldstyle; font-size: 4em; font-weight: bold;">Trailers</div>
 
