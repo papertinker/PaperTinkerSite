@@ -22,11 +22,11 @@ Eastern inspired <span style="font-size: 1.3em;">RPG</span>
 </colgroup>
 <tr>
   <th align="right" class="tg-0lax" >
-    <a href="/images/badge/Apple-Badge.png"><img style="opacity: 0.5; filter: alpha(opacity=50);" src="/images/badge/Apple-Badge.png"></a>
+    <img style="opacity: 0.5; filter: alpha(opacity=35);" src="/images/badge/Apple-Badge.png">
   </th>
   <th class="tg-0lax"></th>
   <th align="left" class="tg-0lax" >
-    <a href="/images/badge/GooglePlay-Badge.png"><img style="opacity: 0.5; filter: alpha(opacity=50);" src="/images/badge/GooglePlay-Badge.png"></a>
+    <img style="opacity: 0.5; filter: alpha(opacity=35);" src="/images/badge/GooglePlay-Badge.png">
   </th>
 </tr>
 </table>
@@ -118,7 +118,7 @@ The game incorporate text-adventure style narrative with 2D exploration and stam
     <a href="/images/Lifetimes/Screenshots/website_explore3.jpg" data-lightbox="lifetimes_explore"><img style="border: 3px solid black;"  src="/images/Lifetimes/Screenshots_small/website_explore3.jpg"></a>
   </th>
 </tr>
-<a href="/images/Lifetimes/Screenshots/website_combat4.jpg" data-lightbox="lifetimes_explore"></a>
+<a href="/images/Lifetimes/Screenshots/website_explore4.jpg" data-lightbox="lifetimes_explore"></a>
 </table>
 
 
@@ -268,4 +268,23 @@ The game incorporate text-adventure style narrative with 2D exploration and stam
 <a href="/images/Lifetimes/Screenshots/website_afterLife_upbringing1.jpg" data-lightbox="lifetimes_death"></a>
 <a href="/images/Lifetimes/Screenshots/website_afterLife_upbringing2.jpg" data-lightbox="lifetimes_death"></a>
 <a href="/images/Lifetimes/Screenshots/website_afterLife_reborn1.jpg" data-lightbox="lifetimes_death"></a>
+</table>
+
+<div align="center" style="padding: 1em 0 1em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Available on 5.8.2019</div>
+
+<table style="undefined;table-layout: fixed; width: 100%">
+<colgroup>
+<col style="width: 42.5%">
+<col style="width: 15%">
+<col style="width: 42.5%">
+</colgroup>
+<tr>
+  <th align="right" class="tg-0lax" >
+    <img style="opacity: 0.5; filter: alpha(opacity=35);" src="/images/badge/Apple-Badge.png">
+  </th>
+  <th class="tg-0lax"></th>
+  <th align="left" class="tg-0lax" >
+    <img style="opacity: 0.5; filter: alpha(opacity=35);" src="/images/badge/GooglePlay-Badge.png">
+  </th>
+</tr>
 </table>
