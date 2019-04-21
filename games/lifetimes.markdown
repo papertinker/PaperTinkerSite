@@ -7,6 +7,10 @@ specialPage: Banshee
 ignoreTitle: true
 ---
 
+<div align="center" style="padding: 0em 0 0em 0; font-family: oldstyle; font-size: 5vh; font-weight: bold;">Souls + Infinity blade
+<br>
+Eastern inspired <span style="font-size: 1.3em;">RPG</span>
+</div>
 <div align="center" style="padding: 0em 0 0em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Souls + Infinity blade
 <br>
 Eastern inspired <span style="font-size: 1.3em;">RPG</span>
