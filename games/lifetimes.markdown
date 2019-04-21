@@ -8,13 +8,13 @@ ignoreTitle: true
 flexibleFont: true
 ---
 
-11
-<div style="width: calc(100%+50px)" align="center" style="padding: 0em 0 0em 0; font-family: oldstyle; font-size: 2.5em; font-weight: bold;">Souls + Infinity blade
+12
+<div style="margin: 0 -25px 0 -25px;" align="center" style="padding: 0em 0 0em 0; font-family: oldstyle; font-size: 2.5em; font-weight: bold;">Souls + Infinity blade
 <br>
 Eastern inspired <span style="font-size: 130%;">RPG</span>
 </div>
 
-<div align="center" style="padding: 0em 0 5vmin 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Available on 5.8.2019</div>
+<div style="margin: 0 -25px 0 -25px;" align="center" style="padding: 0em 0 5vmin 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Available on 5.8.2019</div>
 
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
