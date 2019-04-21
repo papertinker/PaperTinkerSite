@@ -270,7 +270,7 @@ The game incorporate text-adventure style narrative with 2D exploration and stam
 <a href="/images/Lifetimes/Screenshots/website_afterLife_reborn1.jpg" data-lightbox="lifetimes_death"></a>
 </table>
 
-<div align="center" style="padding: 1em 0 1em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Available on 5.8.2019</div>
+<div align="center" style="padding: 2em 0 1em 0; font-family: oldstyle; font-size: 4em; font-weight: bold;">Available on 5.8.2019</div>
 
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
