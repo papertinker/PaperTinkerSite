@@ -65,7 +65,7 @@ Eastern inspired <span style="font-size: 1.3em;">RPG</span>
 <br><br>
 The game incorporate text-adventure style narrative with 2D exploration and stamina based combat. The game mainly takes place in the living world but will also offer unique mechanics in the afterlife. Only in the afterlife can the player can spend karma accrued in life to make various adjustment to their avatar such as acquiring permanent power ups/abilities and applying temporary boons to help improve the chance of success in the next life. It is through the karma system that game attempts to encourage players to find new ways of approaching challenge after experiencing failures.</div>
 
-
+<div align="center" style="padding: 2em 0 0.5em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Engage in thrilling combat</div>
 <table style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
 <col style="width: 30%">
@@ -76,15 +76,15 @@ The game incorporate text-adventure style narrative with 2D exploration and stam
 </colgroup>
 <tr>
   <th class="tg-0lax" >
-    <a href="/images/Lifetimes/Screenshots/website_combat1.jpg" data-lightbox="lifetimes_combat" data-title="xxx"><img src="/images/Lifetimes/Screenshots_small/website_combat1.jpg"></a>
+    <a href="/images/Lifetimes/Screenshots/website_combat1.jpg" data-lightbox="lifetimes_combat" data-title="xxx"><img style="border-style: solid;" src="/images/Lifetimes/Screenshots_small/website_combat1.jpg"></a>
   </th>
   <th class="tg-0lax"></th>
   <th align="left" class="tg-0lax" >
-    <a href="/images/Lifetimes/Screenshots/website_combat2.jpg" data-lightbox="lifetimes_combat" data-title="xxx"><img src="/images/Lifetimes/Screenshots_small/website_combat2.jpg"></a>
+    <a href="/images/Lifetimes/Screenshots/website_combat2.jpg" data-lightbox="lifetimes_combat" data-title="xxx"><img style="border-style: solid;"  src="/images/Lifetimes/Screenshots_small/website_combat2.jpg"></a>
   </th>
 <th class="tg-0lax"></th>
   <th align="left" class="tg-0lax" >
-    <a href="/images/Lifetimes/Screenshots/website_combat3.jpg" data-lightbox="lifetimes_combat" data-title="xxx"><img src="/images/Lifetimes/Screenshots_small/website_combat3.jpg"></a>
+    <a href="/images/Lifetimes/Screenshots/website_combat3.jpg" data-lightbox="lifetimes_combat" data-title="xxx"><img style="border-style: solid;"  src="/images/Lifetimes/Screenshots_small/website_combat3.jpg"></a>
   </th>
 </tr>
 <a href="/images/Lifetimes/Screenshots/website_combat4.jpg" data-lightbox="lifetimes_combat" data-title="xxx"></a>
