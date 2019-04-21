@@ -65,8 +65,26 @@ Eastern inspired <span style="font-size: 1.3em;">RPG</span>
 <br><br>
 The game incorporate text-adventure style narrative with 2D exploration and stamina based combat. The game mainly takes place in the living world but will also offer unique mechanics in the afterlife. Only in the afterlife can the player can spend karma accrued in life to make various adjustment to their avatar such as acquiring permanent power ups/abilities and applying temporary boons to help improve the chance of success in the next life. It is through the karma system that game attempts to encourage players to find new ways of approaching challenge after experiencing failures.</div>
 
-<div>
-<a href="https://www.w3schools.com/w3css/img_lights.jpg" data-lightbox="lifetimes_gallery" data-title="test img 1 title"><img src="https://cloudfour.com/examples/img-currentsrc/images/kitten-small.png"></a>
-<a href="/images/bio-photo.jpg" data-lightbox="lifetimes_gallery"><img src="/images/bio-photo.jpg"></a>
-<a href="https://lokeshdhakar.com/projects/lightbox2/images/image-1.jpg" data-lightbox="lifetimes_gallery"></a>
-</div>
+
+<table style="undefined;table-layout: fixed; width: 100%">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 5%">
+<col style="width: 30%">
+<col style="width: 5%">
+<col style="width: 30%">
+</colgroup>
+<tr>
+  <th class="tg-0lax" >
+    <a href="/images/Lifetimes/Screenshots/website_combat1.jpg" data-lightbox="lifetimes_combat" data-title="xxx"><img src="/images/Lifetimes/Screenshots_small/website_combat1.jpg"></a>
+  </th>
+  <th class="tg-0lax"></th>
+  <th align="left" class="tg-0lax" >
+    <a href="/images/Lifetimes/Screenshots/website_combat2.jpg" data-lightbox="lifetimes_combat" data-title="xxx"><img src="/images/Lifetimes/Screenshots_small/website_combat2.jpg"></a>
+  </th>
+<th class="tg-0lax"></th>
+  <th align="left" class="tg-0lax" >
+    <a href="/images/Lifetimes/Screenshots/website_combat3.jpg" data-lightbox="lifetimes_combat" data-title="xxx"><img src="/images/Lifetimes/Screenshots_small/website_combat3.jpg"></a>
+  </th>
+</tr>
+</table>
