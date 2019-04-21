@@ -76,15 +76,15 @@ The game incorporate text-adventure style narrative with 2D exploration and stam
 </colgroup>
 <tr>
   <th class="tg-0lax" >
-    <a href="/images/Lifetimes/Screenshots/website_combat1.jpg" data-lightbox="lifetimes_combat" data-title="xxx"><img src="/images/Lifetimes/Screenshots_small/website_combat1.jpg"></a>
+    <a href="/images/Lifetimes/Screenshots/website_combat1.jpg" data-lightbox="lifetimes_combat" data-title="xxx"><img style="border-style: solid;" src="/images/Lifetimes/Screenshots_small/website_combat1.jpg"></a>
   </th>
   <th class="tg-0lax"></th>
   <th align="left" class="tg-0lax" >
-    <a href="/images/Lifetimes/Screenshots/website_combat2.jpg" data-lightbox="lifetimes_combat" data-title="xxx"><img src="/images/Lifetimes/Screenshots_small/website_combat2.jpg"></a>
+    <a href="/images/Lifetimes/Screenshots/website_combat2.jpg" data-lightbox="lifetimes_combat" data-title="xxx"><img style="border-style: solid;"  src="/images/Lifetimes/Screenshots_small/website_combat2.jpg"></a>
   </th>
 <th class="tg-0lax"></th>
   <th align="left" class="tg-0lax" >
-    <a href="/images/Lifetimes/Screenshots/website_combat3.jpg" data-lightbox="lifetimes_combat" data-title="xxx"><img src="/images/Lifetimes/Screenshots_small/website_combat3.jpg"></a>
+    <a href="/images/Lifetimes/Screenshots/website_combat3.jpg" data-lightbox="lifetimes_combat" data-title="xxx"><img style="border-style: solid;"  src="/images/Lifetimes/Screenshots_small/website_combat3.jpg"></a>
   </th>
 </tr>
 <a href="/images/Lifetimes/Screenshots/website_combat4.jpg" data-lightbox="lifetimes_combat" data-title="xxx"></a>
