@@ -10,8 +10,8 @@ layout: page
 <div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:4em;font-weight:400;padding: 1em 0 0.5em 0;">About me</div>
 <table style="undefined;table-layout: fixed; width: 100%">
 	<colgroup>
-		<col style="width: auto; width: 1%; white-space: nowrap;">
-		<col style="width: auto;">
+		<col class="about_left">
+		<col class="about_right">
 	</colgroup>
 	<tr>
 		<th class="tg-0lax" style="vertical-align: top;">
@@ -31,9 +31,3 @@ layout: page
 		</th>
 	</tr>
 </table>
-
-<div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:4em;font-weight:400;padding: 1em 0 0.5em 0;">Connect with me</div>
-
-<div align="center" style="width: 100%">
-	<a href="www.linkedin.com/in/pintian-zhang-48733b84"><img style="width: 25%" src="/images/Logo_LinkedIn.png" alt="Pintian Zhang Linkedin"></a>
-</div>

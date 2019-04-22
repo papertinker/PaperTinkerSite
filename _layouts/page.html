@@ -42,7 +42,22 @@
 {% endif %}
 </style>
 
-
+<style> 
+.about_left {
+    font-size: width: 25%;
+  }
+  .about_right {
+    font-size: width: 75%;
+  }
+@media only screen and (max-width: 533px) {
+  .about_left {
+    font-size: width: 0%;
+  }
+  .about_right {
+    font-size: width: 100%;
+  }
+}
+</style>
 
 <head>
 {% include head.html %}
