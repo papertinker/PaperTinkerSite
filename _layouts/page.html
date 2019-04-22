@@ -34,7 +34,7 @@
 
 <style> 
 {% if page.flexibleFont %}
-@media only screen and (max-width: 533px) {
+@media only screen and (max-width: 760px) {
   .entry-content {
     font-size: 3vw;
   }
@@ -43,20 +43,22 @@
 </style>
 
 <style> 
-.about_left {
-    width: 25%;
-  }
-  .about_right {
-    width: 75%;
-  }
-@media only screen and (max-width: 533px) {
+
+
   .about_left {
-    width: 0%;
+  width: 0%;
+
+  @include media($large) {
+    width: 25%;
+    }
   }
   .about_right {
-    width: 100%;
+  width: 100%;
+
+  @include media($large) {
+    width: 75%;
+    }
   }
-}
 </style>
 
 <head>
