@@ -1,6 +1,8 @@
 ---
 title: Wanderer of Lifetimes - Gameplay Trailer
 date: 2019-04-22 10:26:00 -04:00
+categories:
+- blog
 tags:
 - Trailer
 - Gameplay
