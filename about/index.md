@@ -7,19 +7,21 @@ flexibleFont: true
 layout: page
 ---
 
-<div align="center" style="font-family:'volkhov',serif;font-size:1.2rem;padding: 0em 0 0em 0;"><b>PaperTinker</b> is an indie game studio founded by <b>PT Zhang</b></div>
 
-<div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:5em;font-weight:400;padding: 1em 0 0em 0;">Titles</div>
 
-<div align="center" style="padding: 0em 0 0em 0;"><a href="/games/lifetimes/"><img style="border: 2px solid black;" src="/images/WandererOfLifetimesBanner.jpg"></a></div>
-<div align="center" style="padding: 0em 0 0em 0; font-size: 1.2em;">Souls/Infinity Blade inspired Eastern theme RPG for iOS & Android</div>
+<div align="center" style="width: 100%">
+	<img style="width: 25%" src="/images/bio-photo.jpg" class="bio-photo" alt="Pintian Zhang bio photo">
+	<div align="center" style="font-family:'volkhov',serif;font-size:1.2rem;padding: 0em 0 0em 0;">
+		I Graduated from UNC-Chapel Hill with BS and MS in Computer Science. After graduation, I spent around 3 years independently developing a RPG for mobile devices (<a href="/games/lifetimes/"><b>Wanderer of Lifetimes</b></a>) in the Greater Washington DC Area. I’ve also been developing some smaller indie games in collaboration with a friend (Micheal Wang) for Google Cardboard (<a href="/games/abyssiren/"><b>AbysSiren</b></a>, <a href="/games/banshee/"><b>Banshee VR</b></a>).
+		<br>
+		<br>
+		<b>Favorite Games:</b>
+		<br>
+		Souls series, Monster Hunter series, Don’t Starve, Legend of Heroes: Trail in the Sky
 
-<div align="center" style="padding: 1.5em 0 0em 0;"><a href="/games/abyssiren/"><img style="border: 2px solid black;" src="/images/AbyssirenBanner.png"></a></div>
-<div align="center" style="padding: 0em 0 0em 0; font-size: 1.2em;">Google cardboard VR FPS where your voice is your ammo
-<br>
-(Collaboration with Michael Wang)</div>
+		</div>
+</div>
 
-<div align="center" style="padding: 1.5em 0 0em 0;"><a href="/games/banshee/"><img style="border: 2px solid black;" src="/images/BansheeBanner.png"></a></div>
-<div align="center" style="padding: 0em 0 0em 0; font-size: 1.2em;">Google cardboard VR FPS where your voice generates virtual shockwave
-<br>
-(Collaboration with Michael Wang)</div>
+<div align="center" style="width: 100%">
+	<a href="www.linkedin.com/in/pintian-zhang-48733b84"><img style="width: 25%" src="/images/Logo_LinkedIn.png" alt="Pintian Zhang Linkedin"></a>
+</div>
