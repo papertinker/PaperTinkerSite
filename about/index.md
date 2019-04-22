@@ -7,11 +7,10 @@ flexibleFont: true
 layout: page
 ---
 
-
 <div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:4em;font-weight:400;padding: 1em 0 0.5em 0;">About me</div>
 <div class="entry-wrapper">
 	<footer class="entry-meta">
-        <img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo"></a>
+        <img src="/images/bio-photo.jpg" class="bio-photo" alt="Pintian Zhang bio photo"></a>
 	</footer>
 	<div class="entry-content" align="left" style="font-family:'volkhov',serif;font-size:1.2rem;padding: 0em 0 0em 0; font-weight: normal;">
         <b><span style="font-size: 130%;">PT Zhang</span></b>
