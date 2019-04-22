@@ -15,7 +15,7 @@ layout: page
 	</colgroup>
 	<tr>
 		<th class="tg-0lax" style="vertical-align: top;">
-			<img src="/images/bio-photo.jpg" class="bio-photo" alt="Pintian Zhang bio photo">
+			<img src="/images/bio-photo.jpg" style="display: block;width: 150px;height: 150px;margin-bottom: 10px;border-radius: 150px;" alt="Pintian Zhang bio photo">
 		</th>
 		<th class="tg-0lax" >
 			<div align="left" style="font-family:'volkhov',serif;font-size:1.2rem;padding: 0em 0 0em 0; font-weight: normal;">
