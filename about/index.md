@@ -7,11 +7,17 @@ flexibleFont: true
 layout: page
 ---
 
-
-
-<div align="center" style="width: 100%">
-	<img style="width: 25%" src="/images/bio-photo.jpg" class="bio-photo" alt="Pintian Zhang bio photo">
-	<span align="center" style="font-family:'volkhov',serif;font-size:1.2rem;padding: 0em 0 0em 0;">
+<table style="undefined;table-layout: fixed; width: 100%">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 75%">
+</colgroup>
+<tr>
+  <th class="tg-0lax" >
+    <div align="right"><img src="/images/bio-photo.jpg" class="bio-photo" alt="Pintian Zhang bio photo"></div>
+  </th>
+  <th class="tg-0lax" >
+    <div align="left"><span align="left" style="font-family:'volkhov',serif;font-size:1.2rem;padding: 0em 0 0em 0;">
 		I Graduated from UNC-Chapel Hill with BS and MS in Computer Science. After graduation, I spent around 3 years independently developing a RPG for mobile devices (<a href="/games/lifetimes/"><b>Wanderer of Lifetimes</b></a>) in the Greater Washington DC Area. I’ve also been developing some smaller indie games in collaboration with a friend (Micheal Wang) for Google Cardboard (<a href="/games/abyssiren/"><b>AbysSiren</b></a>, <a href="/games/banshee/"><b>Banshee VR</b></a>).
 		<br>
 		<br>
@@ -19,10 +25,11 @@ layout: page
 		<br>
 		Souls series, Monster Hunter series, Don’t Starve, Legend of Heroes: Trail in the Sky
 
-		</span>
-</div>
+		</div></div>
+  </th>
+</tr>
 
-<div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:4em;font-weight:400;padding: 1em 0 0em 0;">Connect with me:</div>
+<div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:4em;font-weight:400;padding: 1em 0 0.5em 0;">Connect with me:</div>
 
 <div align="center" style="width: 100%">
 	<a href="www.linkedin.com/in/pintian-zhang-48733b84"><img style="width: 25%" src="/images/Logo_LinkedIn.png" alt="Pintian Zhang Linkedin"></a>
