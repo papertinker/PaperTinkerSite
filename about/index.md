@@ -9,10 +9,7 @@ layout: page
 
 <div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:4em;font-weight:400;padding: 1em 0 0.5em 0;">About me</div>
 <table style="undefined;table-layout: fixed; width: 100%">
-	<colgroup>
-		<col style="width: 25%">
-		<col style="width: 75%">
-	</colgroup>
+	
 	<tr>
 		<th class="tg-0lax" style="vertical-align: top;">
 			<img src="/images/bio-photo.jpg" class="bio-photo" alt="Pintian Zhang bio photo">
