@@ -15,6 +15,8 @@ tags:
 - papertinker
 - mobile
 - game
+- Mobile RPG
+- RPG
 ---
 
 A <b>cinematic trailer</b> that highlight the story element of the game and how it interweaves with the game's core mechanics.
