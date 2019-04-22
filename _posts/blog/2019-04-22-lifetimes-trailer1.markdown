@@ -1,6 +1,17 @@
 ---
-title: Wanderer of Lifetimes Cinematic Trailer
-date: 2019-04-22 10:04:00 -04:00
+title: Wanderer of Lifetimes - Cinematic Trailer
+date: 2019-04-22 10:22:00 -04:00
+categories:
+- blog
+tags:
+- Trailer
+- Cinematic
+- cinematic trailer
+- Wanderer of Lifetimes
+- iOS
+- Android
+- Souls like
+- video
 ---
 
 A <b>cinematic trailer</b> that highlight the story element of the game and how it interweaves with the game's core mechanics.
