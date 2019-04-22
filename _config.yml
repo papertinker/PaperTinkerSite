@@ -11,7 +11,7 @@ collections:
 locale: en_US
 description: who makes games!
 logo: site-logo.png
-search: false
+search: true
 url: https://papertinker.com
 permalink: "/:categories/:title/"
 markdown: kramdown
