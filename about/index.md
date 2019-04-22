@@ -7,9 +7,9 @@ flexibleFont: true
 layout: page
 ---
 
-<div align="center" style="font-family:'volkhov',serif;font-size:1.2rem;padding: 0em 0 0em 0;"><b>PaperTinker</b> is an indie game studio founded by PT Zhang</div>
+<div align="center" style="font-family:'volkhov',serif;font-size:1.2rem;padding: 0em 0 0em 0;"><b>PaperTinker</b> is an indie game studio founded by <b>PT Zhang</b></div>
 
-<div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:2.25rem;font-weight:400;padding: 2em 0 1em 0;">Titles</div>
+<div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:5em;font-weight:400;padding: 1em 0 0em 0;">Titles</div>
 
 <div align="center" style="padding: 0em 0 0em 0;"><a href="/games/lifetimes/"><img style="border: 2px solid black;" src="/images/WandererOfLifetimesBanner.jpg"></a></div>
 <div align="center" style="padding: 0em 0 0em 0; font-size: 1.2em;">Souls/Infinity Blade inspired Eastern theme RPG for iOS & Android</div>
