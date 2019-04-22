@@ -8,7 +8,7 @@ layout: page
 ---
 
 <div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:4em;font-weight:400;padding: 1em 0 0.5em 0;">About me</div>
-<div class="entry-wrapper">
+<div>
 	<footer class="entry-meta">
         <img src="/images/bio-photo.jpg" class="bio-photo" alt="Pintian Zhang bio photo">
 	</footer>
