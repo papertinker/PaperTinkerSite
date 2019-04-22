@@ -41,13 +41,6 @@ ignoreTitle: true
 </div>
 
 <div align="left" style="font-size:1.5em;font-style:bold;padding: 0.5em 0 0em 0; font-weight: normal;">
-	Platforms:
-</div>
-<div align="left" style="font-size:1.2em;padding: 0em 0 0em 0; font-weight: normal;">
-	iOS / Android
-</div>
-
-<div align="left" style="font-size:1.5em;font-style:bold;padding: 0.5em 0 0em 0; font-weight: normal;">
 	Website:
 </div>
 <div align="left" style="font-size:1.2em;padding: 0em 0 0em 0; font-weight: normal;">
