@@ -17,33 +17,33 @@ ignoreTitle: true
 
 <div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:3em;font-weight:400;padding: 1.5em 0 0.5em 0;">Factsheet</div>
 
-<div align="left" style="font-size:1.5em;padding: 0.5em 0 0em 0; font-weight: bold;">
+<div align="left" style="font-size:2em;padding: 0.5em 0 0em 0; font-weight: bold;">
 	Developer:
 </div>
-<div align="left" style="font-size:1.2em;padding: 0em 0 0em 0; font-weight: normal;">
+<div align="left" style="font-size:1.4em;padding: 0em 0 0em 0; font-weight: normal;">
 	<a href="https://papertinker.com">Papertinker Studio</a><br>
 	Based in United States<br>
 	Founding date: May 16, 2016
 </div>
 
-<div align="left" style="font-size:1.5em;padding: 0.5em 0 0em 0; font-weight: bold;">
+<div align="left" style="font-size:2em;padding: 0.5em 0 0em 0; font-weight: bold;">
 	Release Date:
 </div>
-<div align="left" style="font-size:1.2em;padding: 0em 0 0em 0; font-weight: normal;">
+<div align="left" style="font-size:1.4em;padding: 0em 0 0em 0; font-weight: normal;">
 	May 8, 2019
 </div>
 
-<div align="left" style="font-size:1.5em;padding: 0.5em 0 0em 0; font-weight: bold;">
+<div align="left" style="font-size:2em;padding: 0.5em 0 0em 0; font-weight: bold;">
 	Platforms:
 </div>
-<div align="left" style="font-size:1.2em;padding: 0em 0 0em 0; font-weight: normal;">
+<div align="left" style="font-size:1.4em;padding: 0em 0 0em 0; font-weight: normal;">
 	iOS / Android
 </div>
 
-<div align="left" style="font-size:1.5em;padding: 0.5em 0 0em 0; font-weight: bold;">
+<div align="left" style="font-size:2em;padding: 0.5em 0 0em 0; font-weight: bold;">
 	Website:
 </div>
-<div align="left" style="font-size:1.2em;padding: 0em 0 0em 0; font-weight: normal;">
+<div align="left" style="font-size:1.4em;padding: 0em 0 0em 0; font-weight: normal;">
 	<a href="https://papertinker.com/games/lifetimes">https://papertinker.com/games/lifetimes</a>
 </div>
 
@@ -51,8 +51,8 @@ ignoreTitle: true
 
 
 <div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:3em;font-weight:400;padding: 1em 0 0.5em 0;">Description</div>
-<div align="left" style="font-size:1.2em;padding: 0em 0 0em 0; font-weight: normal;">
-	Wanderer of Lifetimes is a role playing game set in an Asian-inspired land where the rules of life and death are governed by of the cycle of karma. The player will set out to achieve a mission over many lifetimes that will ultimately determine the fate of the world.<br>
+<div align="left" style="font-size:1.4em;padding: 0em 0 0em 0; font-weight: normal;">
+	Wanderer of Lifetimes is a role playing game set in an Asian-inspired land where the rules of life and death are governed by of the cycle of karma. The player will set out to achieve a mission over many lifetimes that will ultimately determine the fate of the world.<br><br>
 	Combat consist of a mix of the stamina-based actions of the Souls series and the 1v1 dual format of the Infinity Blade series. When the player dies, they can spend karma accrued in life to acquire permanent power ups and apply temporary boons before reincarnating back into the living world. 
 </div>
 
@@ -67,11 +67,11 @@ ignoreTitle: true
 	</colgroup>
 	<tr>
 		<th class="tg-0lax" >
-			<div align="center" style="font-size:1.5em;font-style:bold; font-weight: normal;">Gameplay trailer</div>
+			<div align="center" style="font-size:2em;font-weight: bold;">Gameplay trailer</div>
 		</th>
 		<th class="tg-0lax"></th>
 		<th class="tg-0lax" >
-			<div align="center" style="font-size:1.5em;font-style:bold; font-weight: normal;">Cinematic trailer</div>
+			<div align="center" style="font-size:2em;font-weight: bold;">Cinematic trailer</div>
 		</th>
 	</tr>
 	<tr>
@@ -203,9 +203,9 @@ ignoreTitle: true
 
 <div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:3em;font-weight:400;padding: 1em 0 0.5em 0;">Contact</div>
 
-<div align="left" style="font-size:1.5em;padding: 0.5em 0 0em 0; font-weight: bold;">
+<div align="left" style="font-size:2em;padding: 0.5em 0 0em 0; font-weight: bold;">
 	Website:
 </div>
-<div align="left" style="font-size:1.2em;padding: 0em 0 0em 0; font-weight: normal;">
+<div align="left" style="font-size:1.4em;padding: 0em 0 0em 0; font-weight: normal;">
 	<a href="https://papertinker.com/contact">https://papertinker.com/contact</a>
 </div>
