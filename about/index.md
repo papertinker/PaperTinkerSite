@@ -28,6 +28,7 @@ layout: page
 		</div></div>
   </th>
 </tr>
+</table>
 
 <div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:4em;font-weight:400;padding: 1em 0 0.5em 0;">Connect with me:</div>
 
