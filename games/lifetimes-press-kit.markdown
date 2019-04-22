@@ -10,12 +10,12 @@ ignoreTitle: true
 
 
 
-<div align="center" style="padding: 0em 0 0em 0;"><a href="/games/lifetimes/"><img style="border: 2px solid black;" src="/images/WandererOfLifetimesBanner.jpg"></a></div>
+<div align="center" style="padding: 0em 0 0em 0;"><a href="/games/lifetimes/"><img style="border: 2px solid black;" src="/images/WandererOfLifetimesBanner.jpg" alt="Wanderer of Lifetimes"></a></div>
 
-<div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:3.5em;font-weight:400;padding: 1em 0 0.5em 0;">Wanderer of Lifetimes - Press kit</div>
+<div align="center" style="font-family:'volkhov',serif;font-size:3.5em;font-weight:400;">Wanderer of Lifetimes Press kit</div>
 
 
-<div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:3em;font-weight:400;padding: 1em 0 0.5em 0;">Factsheet</div>
+<div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:3em;font-weight:400;padding: 1.5em 0 0.5em 0;">Factsheet</div>
 
 <div align="left" style="font-size:1.5em;font-style:bold;padding: 0.5em 0 0em 0; font-weight: normal;">
 	Developer:
@@ -67,11 +67,11 @@ ignoreTitle: true
 	</colgroup>
 	<tr>
 		<th class="tg-0lax" >
-			<div align="left" style="font-size:1.5em;font-style:bold; font-weight: normal;">Gameplay trailer</div>
+			<div align="center" style="font-size:1.5em;font-style:bold; font-weight: normal;">Gameplay trailer</div>
 		</th>
 		<th class="tg-0lax"></th>
 		<th class="tg-0lax" >
-			<div align="left" style="font-size:1.5em;font-style:bold; font-weight: normal;">Cinematic trailer</div>
+			<div align="center" style="font-size:1.5em;font-style:bold; font-weight: normal;">Cinematic trailer</div>
 		</th>
 	</tr>
 	<tr>
@@ -85,11 +85,11 @@ ignoreTitle: true
 	</tr>
 	<tr>
 		<th class="tg-0lax" >
-			<textarea readonly style= "height: 3.5em; max-height: 3.5em; "><iframe width="512" height="683" src="https://www.youtube.com/embed/fQghW-3JD4k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></textarea>
+			<textarea style= "height: 3.5em; max-height: 3.5em; "><iframe width="512" height="683" src="https://www.youtube.com/embed/fQghW-3JD4k?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></textarea>
 		</th>
 		<th class="tg-0lax"></th>
 		<th class="tg-0lax" >
-			<textarea readonly style= "height: 3.5em; max-height: 3.5em; "><iframe width="512" height="683" src="https://www.youtube.com/embed/pLSshwldt80?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></textarea>
+			<textarea style= "height: 3.5em; max-height: 3.5em; "><iframe width="512" height="683" src="https://www.youtube.com/embed/pLSshwldt80?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></textarea>
 		</th>
 	</tr>
 </table>
