@@ -292,6 +292,6 @@ The game incorporate text-adventure style narrative with 2D exploration and stam
 </tr>
 </table>
 </div>
-<div align="left" style="font-size:1.2em;padding: 1em 0 0em 0; font-weight: normal;">
+<div align="center" style="font-size:1.2em;padding: 1em 0 0em 0; font-weight: normal;">
 	<a href="https://papertinker.com/games/lifetimes-press-kit/">Press kit</a>
 </div>
