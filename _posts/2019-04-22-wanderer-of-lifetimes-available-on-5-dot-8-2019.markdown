@@ -1,6 +1,19 @@
 ---
 title: Wanderer of Lifetimes available on 5.8.2019
 date: 2019-04-22 14:59:00 -04:00
+categories:
+- blog
+tags:
+- Release date
+- Wanderer of Lifetimes
+- iOS
+- ANdroid
+- Souls like
+- papertinker
+- Mobile RPG
+- game
+- mobile
+- RPG
 ---
 
 <div align="center" style="padding: 0em 0 0em 0;"><a href="/games/lifetimes/"><img style="border: 2px solid black;" src="/images/WandererOfLifetimesBanner.jpg"></a></div>
