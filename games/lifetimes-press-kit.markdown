@@ -12,12 +12,12 @@ ignoreTitle: true
 
 <div align="center" style="padding: 0em 0 0em 0;"><a href="/games/lifetimes/"><img style="border: 2px solid black;" src="/images/WandererOfLifetimesBanner.jpg" alt="Wanderer of Lifetimes"></a></div>
 
-<div align="center" style="font-family:'volkhov',serif;font-size:3.5em;font-weight:400;">Wanderer of Lifetimes Press kit</div>
+<div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:3.5em;font-weight:400;">Wanderer of Lifetimes Press kit</div>
 
 
 <div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:3em;font-weight:400;padding: 1.5em 0 0.5em 0;">Factsheet</div>
 
-<div align="left" style="font-size:1.5em;font-style:bold;padding: 0.5em 0 0em 0; font-weight: normal;">
+<div align="left" style="font-size:1.5em;padding: 0.5em 0 0em 0; font-weight: bold;">
 	Developer:
 </div>
 <div align="left" style="font-size:1.2em;padding: 0em 0 0em 0; font-weight: normal;">
@@ -26,21 +26,21 @@ ignoreTitle: true
 	Founding date: May 16, 2016
 </div>
 
-<div align="left" style="font-size:1.5em;font-style:bold;padding: 0.5em 0 0em 0; font-weight: normal;">
+<div align="left" style="font-size:1.5em;padding: 0.5em 0 0em 0; font-weight: bold;">
 	Release Date:
 </div>
 <div align="left" style="font-size:1.2em;padding: 0em 0 0em 0; font-weight: normal;">
 	May 8, 2019
 </div>
 
-<div align="left" style="font-size:1.5em;font-style:bold;padding: 0.5em 0 0em 0; font-weight: normal;">
+<div align="left" style="font-size:1.5em;padding: 0.5em 0 0em 0; font-weight: bold;">
 	Platforms:
 </div>
 <div align="left" style="font-size:1.2em;padding: 0em 0 0em 0; font-weight: normal;">
 	iOS / Android
 </div>
 
-<div align="left" style="font-size:1.5em;font-style:bold;padding: 0.5em 0 0em 0; font-weight: normal;">
+<div align="left" style="font-size:1.5em;padding: 0.5em 0 0em 0; font-weight: bold;">
 	Website:
 </div>
 <div align="left" style="font-size:1.2em;padding: 0em 0 0em 0; font-weight: normal;">
@@ -203,7 +203,7 @@ ignoreTitle: true
 
 <div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:3em;font-weight:400;padding: 1em 0 0.5em 0;">Contact</div>
 
-<div align="left" style="font-size:1.5em;font-style:bold;padding: 0.5em 0 0em 0; font-weight: normal;">
+<div align="left" style="font-size:1.5em;padding: 0.5em 0 0em 0; font-weight: bold;">
 	Website:
 </div>
 <div align="left" style="font-size:1.2em;padding: 0em 0 0em 0; font-weight: normal;">
