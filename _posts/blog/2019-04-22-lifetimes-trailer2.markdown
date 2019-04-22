@@ -15,6 +15,8 @@ tags:
 - papertinker
 - mobile
 - game
+- Mobile RPG
+- RPG
 ---
 
 A <a href="https://www.youtube.com/watch?v=fQghW-3JD4k"><b>gameplay trailer</b></a> that highlight various gameplay element of the game.
