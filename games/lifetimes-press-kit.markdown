@@ -5,6 +5,7 @@ image:
   feature: testBanner.jpg
 specialPage: Banshee
 flexibleFont: true
+ignoreTitle: true
 ---
 
 
