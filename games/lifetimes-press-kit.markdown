@@ -15,7 +15,7 @@ ignoreTitle: true
 <div align="center" style="font-family:'source-sans-pro',sans-serif;text-rendering: optimizeLegibility; font-style:normal;font-size:5em;font-weight: 500;">Press kit</div>
 
 
-<div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:3em;font-weight:400;padding: 1.5em 0 0.5em 0;">Factsheet</div>
+<div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:3em;font-weight:400;padding: 1em 0 0.5em 0;">Factsheet</div>
 
 <div align="left" style="font-size:2em;padding: 0.5em 0 0em 0; font-weight: bold;">
 	Developer:
