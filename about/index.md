@@ -7,7 +7,8 @@ flexibleFont: true
 layout: page
 ---
 
-<div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:4em;font-weight:400;padding: 1em 0 0.5em 0;">About me</div>
+<div align="center" style="font-family:'source-sans-pro',sans-serif;text-rendering: optimizeLegibility; font-style:normal;font-size:5em;font-weight: 300;padding: 1em 0 0.5em 0;">About</div>
+<div align="center" style="font-family:'volkhov',serif;font-size:1.4rem;padding: 0em 0 0.5em 0;"><b>PaperTinker</b> is an indie game studio founded by <a href="/about/"><b>PT Zhang</b></a></div>
 <table style="undefined;table-layout: fixed; width: 100%">
 	<colgroup>
 		<col class="about_left">
