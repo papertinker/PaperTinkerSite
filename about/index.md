@@ -7,8 +7,7 @@ flexibleFont: true
 layout: page
 ---
 
-<div align="center" style="font-family:'source-sans-pro',sans-serif;text-rendering: optimizeLegibility; font-style:normal;font-size:5em;font-weight: 300;padding: 1em 0 0.5em 0;">About</div>
-<div align="center" style="font-family:'volkhov',serif;font-size:1.4rem;padding: 0em 0 0.5em 0;"><b>PaperTinker</b> is an indie game studio founded by <a href="/about/"><b>PT Zhang</b></a></div>
+<div align="center" style="font-family:'source-sans-pro',sans-serif;text-rendering: optimizeLegibility; font-style:normal;font-size:5em;font-weight: 300;padding: 0.5em 0 0em 0;">About</div>
 <table style="undefined;table-layout: fixed; width: 100%">
 	<colgroup>
 		<col class="about_left">
@@ -32,3 +31,8 @@ layout: page
 		</th>
 	</tr>
 </table>
+<div align="center" style="font-family:'source-sans-pro',sans-serif;text-rendering: optimizeLegibility; font-style:normal;font-size:5em;font-weight: 300;padding: 0.5em 0 0em 0;">Connect with me</div>
+
+<div align="center" style="width: 100%">
+	<a href="www.linkedin.com/in/pintian-zhang-48733b84"><img style="width: 25%" src="/images/Logo_LinkedIn.png" alt="Pintian Zhang Linkedin"></a>
+</div>
