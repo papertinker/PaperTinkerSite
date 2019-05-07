@@ -63,9 +63,9 @@ Eastern inspired <span style="font-size: 130%;">RPG</span>
 </table>
 
 <div align="center" style="padding: 3em 0 1em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">About the game</div>
-<div align="left" style="font-family: arial; font-size: 1.5em; font-weight: normal;"><b>Wanderer of Lifetimes</b> is a role playing game set in an Asian-inspired land where the rules of life and death are governed by of the cycle of karma. The player will set out to achieve a mission over many lifetimes that will ultimately determine the fate of the world. 
+<div align="left" style="font-family: arial; font-size: 1.5em; font-weight: normal;"><b>Wanderer of Lifetimes</b> is a role playing game set in an Eastern-inspired land where the rules of life and death are governed by the cycle of karma. The player will set out to achieve a mission over many lifetimes that will ultimately determine the fate of the world.
 <br><br>
-The game incorporate text-adventure style narrative with 2D exploration and stamina based combat. The game mainly takes place in the living world but will also offer unique mechanics in the afterlife. Only in the afterlife can the player can spend karma accrued in life to make various adjustment to their avatar such as acquiring permanent power ups/abilities and applying temporary boons to help improve the chance of success in the next life. It is through the karma system that game attempts to encourage players to find new ways of approaching challenge after experiencing failures.</div>
+The game incorporate text-adventure style narrative with 2D exploration and stamina based combat. The game mainly takes place in the living world but will also offer unique mechanics in the afterlife. Only in the afterlife can the player can spend karma accrued in life for various adjustment to their avatar such as acquiring permanent power ups/abilities and applying temporary boons to help improve the chance of success in the next life. It is through the karma system that game attempts to encourage players to find new ways of approaching challenges after experiencing failure.</div>
 
 <div align="center" style="padding: 1em 0 0.5em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Thrilling Combat</div>
 <table style="undefined;table-layout: fixed; width: 100%">
