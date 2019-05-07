@@ -219,3 +219,9 @@ ignoreTitle: true
 <div align="left" style="font-size:1.4em;padding: 0em 0 0em 0; font-weight: normal;">
 	<a href="https://papertinker.com/contact">https://papertinker.com/contact</a>
 </div>
+<div align="left" style="font-size:2em;padding: 0em 0 0em 0; font-weight: bold;">
+	Email:
+</div>
+<div align="left" style="font-size:1.4em;padding: 0em 0 0em 0; font-weight: normal;">
+	<a href="mailto: contact@papertinker.com">contact@papertinker.com</a>
+</div>
