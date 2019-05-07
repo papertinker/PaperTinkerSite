@@ -1,7 +1,8 @@
 ---
 title: Wanderer Of Lifetimes Press Release
 date: 2019-05-07 14:41:00 -04:00
-Field name: 
+flexibleFont: true
+ignoreTitle: true
 ---
 
 
