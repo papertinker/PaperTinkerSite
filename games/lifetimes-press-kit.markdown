@@ -206,7 +206,7 @@ ignoreTitle: true
 	Press release:
 </div>
 <div align="left" style="font-size:1.4em;padding: 0em 0 0em 0; font-weight: normal;">
-	<a href="https://papertinker.com/_uploads/WandererOfLifetimesPressRelease.pdf">Press release PDF</a>
+	<a href="https://papertinker.com/pdf/WandererOfLifetimesPressRelease.pdf">Press release PDF</a>
 </div>
 <div align="left" style="font-size:2em;padding: 0.5em 0 0em 0; font-weight: bold;">
 	Media files:
