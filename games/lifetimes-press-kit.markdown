@@ -203,12 +203,6 @@ ignoreTitle: true
 <div align="center" style="font-family:'volkhov',serif;font-style:italic;font-size:3em;font-weight:400;padding: 1em 0 0.5em 0;">Downloads</div>
 
 <div align="left" style="font-size:2em;padding: 0.5em 0 0em 0; font-weight: bold;">
-	Press release:
-</div>
-<div align="left" style="font-size:1.4em;padding: 0em 0 0em 0; font-weight: normal;">
-	<a href="https://papertinker.com/_uploads/WandererOfLifetimesPressRelease.pdf">Press release PDF</a>
-</div>
-<div align="left" style="font-size:2em;padding: 0.5em 0 0em 0; font-weight: bold;">
 	Media files:
 </div>
 <div align="left" style="font-size:1.4em;padding: 0em 0 0em 0; font-weight: normal;">
