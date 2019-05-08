@@ -24,11 +24,11 @@ Eastern inspired <span style="font-size: 130%;">RPG</span>
 </colgroup>
 <tr>
   <th align="right" class="tg-0lax" >
-    <img style="opacity: 0.5; filter: alpha(opacity=35);" src="/images/badge/Apple-Badge.png">
+    <a href="https://itunes.apple.com/us/app/wanderer-of-lifetimes/id1455732382?ls=1&mt=8"><img src="/images/badge/Apple-Badge.png"></a>
   </th>
   <th class="tg-0lax"></th>
   <th align="left" class="tg-0lax" >
-    <img style="opacity: 0.5; filter: alpha(opacity=35);" src="/images/badge/GooglePlay-Badge.png">
+    <a href="https://play.google.com/store/apps/details?id=com.PaperTinker.WandererofLifetimes"><img src="/images/badge/GooglePlay-Badge.png"></a>
   </th>
 </tr>
 </table>
@@ -283,11 +283,11 @@ The game incorporate text-adventure style narrative with 2D exploration and stam
 </colgroup>
 <tr>
   <th align="right" class="tg-0lax" >
-    <img style="opacity: 0.5; filter: alpha(opacity=35);" src="/images/badge/Apple-Badge.png">
+    <a href="https://itunes.apple.com/us/app/wanderer-of-lifetimes/id1455732382?ls=1&mt=8"><img src="/images/badge/Apple-Badge.png"></a>
   </th>
   <th class="tg-0lax"></th>
   <th align="left" class="tg-0lax" >
-    <img style="opacity: 0.5; filter: alpha(opacity=35);" src="/images/badge/GooglePlay-Badge.png">
+    <a href="https://play.google.com/store/apps/details?id=com.PaperTinker.WandererofLifetimes"><img src="/images/badge/GooglePlay-Badge.png"></a>
   </th>
 </tr>
 </table>
