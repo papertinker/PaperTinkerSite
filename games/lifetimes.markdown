@@ -13,7 +13,7 @@ flexibleFont: true
 Eastern inspired <span style="font-size: 130%;">RPG</span>
 </div>
 
-<div align="center" style="padding: 0em 0 0.5em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Available on 5.8.2019</div>
+<div align="center" style="padding: 0em 0 0.5em 0; font-family: oldstyle; font-size: 3em; font-weight: bold;">Available Now!</div>
 
 <div style="margin: 0 -25px 0 -25px;">
 <table style="undefined;table-layout: fixed; width: 100%">
@@ -272,7 +272,7 @@ The game incorporate text-adventure style narrative with 2D exploration and stam
 <a href="/images/Lifetimes/Screenshots/website_afterLife_reborn1.jpg" data-lightbox="lifetimes_death"></a>
 </table>
 
-<div align="center" style="padding: 2em 0 0.5em 0; font-family: oldstyle; font-size: 4em; font-weight: bold;">Available on 5.8.2019</div>
+<div align="center" style="padding: 2em 0 0.5em 0; font-family: oldstyle; font-size: 4em; font-weight: bold;">Available Now!</div>
 
 <div style="margin: 0 -25px 0 -25px;">
 <table style="undefined;table-layout: fixed; width: 100%">
