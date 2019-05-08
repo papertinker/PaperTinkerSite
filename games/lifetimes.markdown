@@ -27,7 +27,7 @@ Eastern inspired <span style="font-size: 130%;">RPG</span>
     <a href="https://itunes.apple.com/us/app/wanderer-of-lifetimes/id1455732382?ls=1&mt=8"><img src="/images/badge/Apple-Badge.png"></a>
   </th>
   <th class="tg-0lax"></th>
-  <th align="left" class="tg-0lax" >
+  <th align="center" class="tg-0lax" >
     <img src="/images/badge/GooglePlay-Badge.png"><br>Android build on it's way
   </th>
 </tr>
@@ -286,7 +286,7 @@ The game incorporate text-adventure style narrative with 2D exploration and stam
     <a href="https://itunes.apple.com/us/app/wanderer-of-lifetimes/id1455732382?ls=1&mt=8"><img src="/images/badge/Apple-Badge.png"></a>
   </th>
   <th class="tg-0lax"></th>
-  <th align="left" class="tg-0lax" >
+  <th align="center" class="tg-0lax" >
     <img src="/images/badge/GooglePlay-Badge.png"><br>Android build on it's way
   </th>
 </tr>
