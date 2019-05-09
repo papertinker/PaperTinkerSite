@@ -212,7 +212,7 @@ ignoreTitle: true
 	Media files:
 </div>
 <div align="left" style="font-size:1.4em;padding: 0em 0 0em 0; font-weight: normal;">
-	<a href="https://drive.google.com/file/d/1rIkFBYtcgPogYlXKdC7yNY3gf9Zj0ii0/view?usp=sharing">Press kit media files</a>
+	<a href="https://drive.google.com/drive/folders/12kNGT_s6FyxkPZNj5JidoryGcQlDCTJO?usp=sharing">Press kit media files</a>
 </div>
 
 
