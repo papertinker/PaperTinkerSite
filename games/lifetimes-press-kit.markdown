@@ -76,20 +76,20 @@ ignoreTitle: true
 	</tr>
 	<tr>
 		<th class="tg-0lax" >
-			<iframe style="border: 3px solid black;"  width="350" height="467" src="https://www.youtube.com/embed/vwKn-h82kRM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe style="border: 3px solid black;"  width="350" height="467" src="https://www.youtube.com/embed/GmJJBlWWHDk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</th>
 		<th class="tg-0lax"></th>
 		<th class="tg-0lax" >
-			<iframe style="border: 3px solid black;"  width="350" height="467" src="https://www.youtube.com/embed/Tb_MDkFzu8g?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe style="border: 3px solid black;"  width="350" height="467" src="https://www.youtube.com/embed/UCJaHitPBYA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</th>
 	</tr>
 	<tr>
 		<th class="tg-0lax" >
-			<textarea style= "height: 3.5em; max-height: 3.5em; "><iframe width="512" height="683" src="https://www.youtube.com/embed/vwKn-h82kRM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></textarea>
+			<textarea style= "height: 3.5em; max-height: 3.5em; "><iframe width="512" height="683" src="https://www.youtube.com/embed/GmJJBlWWHDk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></textarea>
 		</th>
 		<th class="tg-0lax"></th>
 		<th class="tg-0lax" >
-			<textarea style= "height: 3.5em; max-height: 3.5em; "><iframe width="512" height="683" src="https://www.youtube.com/embed/Tb_MDkFzu8g?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></textarea>
+			<textarea style= "height: 3.5em; max-height: 3.5em; "><iframe width="512" height="683" src="https://www.youtube.com/embed/UCJaHitPBYA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></textarea>
 		</th>
 	</tr>
 </table>
