@@ -37,7 +37,7 @@ ignoreTitle: true
 	Platforms:
 </div>
 <div align="left" style="font-size:1.4em;padding: 0em 0 0em 0; font-weight: normal;">
-	iOS / Android (Android version soon to come)
+	iOS / Android
 </div>
 
 <div align="left" style="font-size:2em;padding: 0.5em 0 0em 0; font-weight: bold;">
