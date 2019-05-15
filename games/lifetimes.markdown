@@ -57,7 +57,7 @@ Eastern inspired <span style="font-size: 130%;">RPG</span>
   </th>
   <th class="tg-0lax"></th>
   <th class="tg-0lax" >
-    <iframe style="border: 3px solid black;"  width="350" height="467" src="https://www.youtube.com/embed/Tb_MDkFzu8g&t=5s?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe style="border: 3px solid black;"  width="350" height="467" src="https://www.youtube.com/embed/Tb_MDkFzu8g?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </th>
 </tr>
 </table>
