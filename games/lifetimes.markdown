@@ -28,7 +28,7 @@ Eastern inspired <span style="font-size: 130%;">RPG</span>
   </th>
   <th class="tg-0lax"></th>
   <th align="center" class="tg-0lax" >
-    <img src="/images/badge/GooglePlay-Badge.png"><br>Android version coming soon!
+    <a href="https://play.google.com/store/apps/details?id=com.PaperTinker.WandererofLifetimes"><img src="/images/badge/GooglePlay-Badge.png"></a>
   </th>
 </tr>
 </table>
@@ -287,7 +287,7 @@ The game incorporate text-adventure style narrative with 2D exploration and stam
   </th>
   <th class="tg-0lax"></th>
   <th align="center" class="tg-0lax" >
-    <img src="/images/badge/GooglePlay-Badge.png"><br>Android version coming soon!
+    <a href="https://play.google.com/store/apps/details?id=com.PaperTinker.WandererofLifetimes"><img src="/images/badge/GooglePlay-Badge.png"></a>
   </th>
 </tr>
 </table>
