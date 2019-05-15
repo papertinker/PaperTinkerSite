@@ -1,6 +1,19 @@
 ---
 title: Wanderer of Lifetimes Launches on Android
 date: 2019-05-15 07:54:00 -04:00
+categories:
+- blog
+tags:
+- Release
+- Wanderer of Lifetimes
+- iOS
+- Android
+- Souls like
+- papertinker
+- Mobile RPG
+- game
+- mobile
+- RPG
 ---
 
 <div align="center" style="padding: 0em 0 0em 0;"><a href="/games/lifetimes/"><img style="border: 2px solid black;" src="/images/WandererOfLifetimesBanner.jpg"></a></div>
