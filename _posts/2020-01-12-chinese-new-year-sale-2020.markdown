@@ -1,6 +1,27 @@
 ---
 title: Chinese New Year sale 2020
 date: 2020-01-12 16:31:00 -05:00
+categories:
+- blog
+tags:
+- Wanderer of Lifetimes
+- iOS
+- Android
+- Souls like
+- papertinker
+- Mobile RPG
+- game
+- mobile
+- RPG
+- Chinese New Year
+- Asian
+- Chinese
+- New Year
+- Free
+- Sale
+- Traditional
+- Holiday
+- Holiday Sale
 ---
 
 Wanderer of Lifetimes will be **FREE** to download and keep between Jan 20 and Jan 28. Take advantage and enjoy the Asian inspired adventure during this Holiday! Happy new year!
